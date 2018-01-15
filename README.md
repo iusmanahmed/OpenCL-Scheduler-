@@ -5,7 +5,8 @@ It is the subtask of the project [Smart Multi-Task Scheduling for OpenCL Concurr
 
 **Relative Speed up Predictor** : It contain dataset to predict relative speedup of CPU/GPU single Node.
 
-
+**Feature Set** : 
+![](https://github.com/usman189/OpenCL-Scheduler-/blob/master/Feature%20Set/1.PNG)
 
 Usman Ahmed (usmanahmed189@gmail.com)<br />
 *Data Analyst (Infitiy Solution)*<br />
